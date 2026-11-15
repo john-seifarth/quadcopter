@@ -218,3 +218,29 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# C++ / CMake
+**/build/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+
+# Compiled firmware
+*.elf
+*.uf2
+*.bin
+*.hex
+*.map
+
+# FreeCAD backups
+*.FCStd1
+*.FCBak
+
+# KiCad temporary files
+*.kicad_prl
+
+# Operating system
+.DS_Store
+
+# Generated logs
+*.log
