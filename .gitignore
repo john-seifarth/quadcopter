@@ -244,3 +244,6 @@ compile_commands.json
 
 # Generated logs
 *.log
+
+# Bill of materials
+bom_v1.xlsx
