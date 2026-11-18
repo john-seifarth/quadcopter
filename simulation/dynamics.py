@@ -67,6 +67,8 @@ def simulate_rotation_1d(
     return log
 
 
+
+
 # Test 1: Constant positive torque, starting from rest
 
 commanded_torque = 0.05  # N·m
